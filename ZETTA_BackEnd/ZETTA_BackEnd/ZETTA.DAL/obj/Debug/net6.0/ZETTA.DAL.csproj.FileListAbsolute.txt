@@ -1,0 +1,14 @@
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\bin\Debug\net6.0\ZETTA.DAL.deps.json
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\bin\Debug\net6.0\ZETTA.DAL.runtimeconfig.json
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\bin\Debug\net6.0\ZETTA.DAL.dll
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\bin\Debug\net6.0\ZETTA.DAL.pdb
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\obj\Debug\net6.0\ZETTA.DAL.csproj.AssemblyReference.cache
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\obj\Debug\net6.0\ZETTA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\obj\Debug\net6.0\ZETTA.DAL.AssemblyInfoInputs.cache
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\obj\Debug\net6.0\ZETTA.DAL.AssemblyInfo.cs
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\obj\Debug\net6.0\ZETTA.DAL.csproj.CoreCompileInputs.cache
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\obj\Debug\net6.0\ZETTA.DAL.dll
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\obj\Debug\net6.0\refint\ZETTA.DAL.dll
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\obj\Debug\net6.0\ZETTA.DAL.pdb
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\obj\Debug\net6.0\ZETTA.DAL.genruntimeconfig.cache
+C:\Users\elipsys\Desktop\Ezequiel\VALKIMIA\ZETTA_BackEnd\ZETTA_BackEnd\ZETTA.DAL\obj\Debug\net6.0\ref\ZETTA.DAL.dll
